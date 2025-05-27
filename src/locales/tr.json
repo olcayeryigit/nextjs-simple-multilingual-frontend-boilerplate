@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Uygulamama Hoş Geldiniz",
+    "description": "Bu, çok dilli bir Next.js uygulamasıdır."
+  },
+  "languageSwitcher": {
+    "label": "Dili Değiştir",
+    "languages": {
+      "en": "İngilizce",
+      "tr": "Türkçe"
+    }
+  }
+}

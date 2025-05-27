@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Welcome to My App",
+    "description": "This is a multilingual Next.js application."
+  },
+  "languageSwitcher": {
+    "label": "Change Language",
+    "languages": {
+      "en": "English",
+      "tr": "Turkish"
+    }
+  }
+}
